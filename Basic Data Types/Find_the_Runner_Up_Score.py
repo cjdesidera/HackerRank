@@ -6,5 +6,6 @@ if __name__ == '__main__':
     def nota():
         sec=sorted(score)
         print(sec[2])
-
-    nota()
+    
+    if n>=2 and n<=10:
+        nota()
