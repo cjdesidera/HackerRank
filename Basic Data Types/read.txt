@@ -1,4 +1,0 @@
-
-Basic Data Types
-
-Segundo capítulo do treinamento de Pyrhon do Hacker Rank
