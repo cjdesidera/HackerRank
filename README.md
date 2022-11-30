@@ -5,7 +5,7 @@
 #Solutions to Hackerrank practice problems
 This repository contains 185 solutions to Hackerrank practice problems with Python 3.
 
-- #Python
+-#Python
   01. Introduction
   02. Basic Data Types
   03. Strings
