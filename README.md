@@ -2,7 +2,7 @@
 
 ## Solutions to Hackerrank practice problems
 
-#Solutions to Hackerrank practice problems
+Solutions to Hackerrank practice problems
 This repository contains 185 solutions to Hackerrank practice problems with Python 3.
 
 # Python
